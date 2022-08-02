@@ -29,6 +29,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  text-align: center;
   background: hsl(234, 45%, 16%, 0.7);
 }
 
@@ -44,6 +45,7 @@
   background: var(--main-color);
   color: var(--bg-color);
   border-radius: 4px;
+  margin-top: 1rem;
 }
 
 .portfolio-overlay .bx:hover {
