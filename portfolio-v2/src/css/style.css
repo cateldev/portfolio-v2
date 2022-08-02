@@ -1,4 +1,6 @@
 /* Style Imports */
+@import "./animated-bg/animated-bg.css";
+@import "./animated-bg/animated-bg.css.map";
 @import "./global.css";
 @import "./header/header.css";
 @import "./header/menuIcon.css";
