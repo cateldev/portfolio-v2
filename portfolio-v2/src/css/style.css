@@ -3,6 +3,7 @@
 @import "./header/header.css";
 @import "./header/menuIcon.css";
 @import "./home/home.css";
+@import "./animation.css";
 @import "./about/about.css";
 @import "./services/services.css";
 @import "./home/portfolio.css";
