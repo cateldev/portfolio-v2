@@ -40,6 +40,7 @@
 .home-text .ani-text {
   position: relative;
   display: flex;
+  padding: 0px 20px;
   align-items: center;
   column-gap: 0.5rem;
   font-size: 1.1rem;
@@ -89,6 +90,10 @@
   column-gap: 0.5rem;
 }
 
+.techs {
+  column-gap: 1.5rem;
+}
+
 .social .bx {
   font-size: 1.3rem;
   padding: 10px;
@@ -100,6 +105,25 @@
 .social .bx:hover {
   background: var(--main-color);
   transition: 0.3s all linear;
+}
+
+.techs .bx {
+  font-size: 2.4rem;
+  padding: 20px;
+  border-radius: 50%;
+  color: var(--bg-color);
+  background: var(--container-color);
+}
+
+.techs .text-i {
+  font-size: 0.9rem;
+  padding: 12px;
+}
+
+.techs .bx:hover {
+  background: var(--main-color);
+  transition: 0.3s all linear;
+  display: flex;
 }
 
 .box {
