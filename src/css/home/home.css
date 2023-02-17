@@ -115,15 +115,17 @@
   background: var(--container-color);
 }
 
+.techs .texts {
+  display: flex;
+  justify-content: center;
+}
 .techs .text-i {
   font-size: 0.9rem;
-  padding: 12px;
 }
 
 .techs .bx:hover {
   background: var(--main-color);
   transition: 0.3s all linear;
-  display: flex;
 }
 
 .box {
